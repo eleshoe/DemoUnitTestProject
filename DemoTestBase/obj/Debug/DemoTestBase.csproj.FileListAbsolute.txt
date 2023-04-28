@@ -1,0 +1,10 @@
+C:\MyDev\Sources\bin\DemoTestBase.deps.json
+C:\MyDev\Sources\bin\DemoTestBase.dll
+C:\MyDev\Sources\bin\DemoTestBase.pdb
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.csproj.AssemblyReference.cache
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.AssemblyInfoInputs.cache
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.AssemblyInfo.cs
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.csproj.CoreCompileInputs.cache
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.dll
+C:\MyDev\Sources\DemoTestBase\obj\Debug\DemoTestBase.pdb

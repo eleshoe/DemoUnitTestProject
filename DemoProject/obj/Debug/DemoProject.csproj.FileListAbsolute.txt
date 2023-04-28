@@ -1,0 +1,10 @@
+C:\MyDev\Sources\bin\DemoProject.deps.json
+C:\MyDev\Sources\bin\DemoProject.dll
+C:\MyDev\Sources\bin\DemoProject.pdb
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.AssemblyInfoInputs.cache
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.AssemblyInfo.cs
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.dll
+C:\MyDev\Sources\DemoProject\obj\Debug\DemoProject.pdb

@@ -1,0 +1,14 @@
+C:\MyDev\Sources\unittest\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MyDev\Sources\unittest\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MyDev\Sources\unittest\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\MyDev\Sources\unittest\DemoUnitTestProject.dll
+C:\MyDev\Sources\unittest\DemoUnitTestProject.pdb
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.AssemblyReference.cache
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.SuggestedBindingRedirects.cache
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.AssemblyInfoInputs.cache
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.AssemblyInfo.cs
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.CoreCompileInputs.cache
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csproj.CopyComplete
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.dll
+C:\MyDev\Sources\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.pdb
