@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqBpyKqDKZ76fin1feeiwnrHpatZgvFo5B8NJypoRw3NsSY6TIUoL1ZBnFclo82IzDbsrURoxF6pNavzkrBjTA==",
+  "success": true,
+  "projectFilePath": "C:\\MyDev\\Sources\\DemoTestBase\\DemoTestBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leef109860\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leef109860\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\leef109860\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
